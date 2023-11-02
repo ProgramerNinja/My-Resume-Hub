@@ -6,7 +6,7 @@ This is the hub for all of my resume assets. From here, users will be given info
 
 ## Badges
 
-![Static Badge](https://img.shields.io/badge/Always%20Learning%20%3BP-grey?labelColor=red&color=grey)
+![Static Badge](https://img.shields.io/badge/Always%20Learning-grey?labelColor=aqua&color=blue)
 
 ## Visuals
 
@@ -19,7 +19,8 @@ Please navigate to this webpage: https://programerninja.github.io/My-Resume-Hub/
 ## Usage
 
 Please navigate to: https://programerninja.github.io/My-Resume-Hub/
-Once you have reached the appliction, you will be able to click on links that will lead to my projects or external resources
+Once you have reached the appliction, you will be able to click on links that will lead to my projects or external resources.
+You can then click on those items for further information. *In Progress*
 
 ## Support
 
