@@ -46,6 +46,12 @@ header {
     padding-bottom: 8px;
     text-decoration-thickness: 4px;
     text-wrap: nowrap;
+    color: #64CCC5;
+    transition-duration: 50ms;
+}
+
+.links a:hover {
+    color: #ffffff;
 }
 
 .hero {
@@ -190,7 +196,7 @@ main section {
     width: 85%;
 }
 
-.contactSpan h5 {
+.contactSpan a {
     color: #0B2447;
     font-size: 24pt;
     text-decoration: underline;
